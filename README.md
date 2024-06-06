@@ -1,0 +1,1 @@
+# A-Text-Independent-Speech-Emotion-Recognition-Based-on-Convolution-Neural-Network
